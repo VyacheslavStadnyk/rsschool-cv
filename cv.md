@@ -1,6 +1,5 @@
 # Vyacheslav Stadnyk
 ## Junior Web Developer
----
 ### *Contact information:*
 * Phone: 0937880259
 * E-mail: wwspilot@gmail.com
@@ -10,7 +9,8 @@
 Hello. I am energetic, cheerful, sociable, ambitious and ,of course, a modest person, I like to learn new things and program
 ### *Skills*
  HTML, CSS, JS, C++, Arduino, Git.
- ### *Code example*
+### *Code example*
+
 **Isograms**
 An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.
 ```
@@ -32,6 +32,6 @@ function isIsogram(str){
 
 - Astound Commerce JS Boot Camp completion 10.2019 - 01.2020
 ### *Languages*
-1. English (A2/B1)
-2. Ukrainian (C1)
-3. Russian (B1)
+* English (A2/B1)
+* Ukrainian (C1)
+* Russian (B1)
